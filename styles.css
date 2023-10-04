@@ -8,3 +8,15 @@
 	justify-content: space-between;
 	color: white;
 }
+.photo-album>ul{
+	list-style: none;
+}
+.photo-album>ul>li{
+	display: inline;
+}
+.photo-album>ul>li>img{
+	width:50px;
+	padding: 5px;
+	border: 1px solid gray;
+	border-radius: 10px;
+}
