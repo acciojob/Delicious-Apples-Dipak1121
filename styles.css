@@ -1,1 +1,10 @@
 /* your code here */
+.photo-main{
+	padding: 20px;
+	background-color: #BAE94B;
+}
+.controls{
+	display: flex;
+	justify-content: space-between;
+	color: white;
+}
